@@ -1,2 +1,8 @@
 github.com/t-kuni/go-package-example-2 v0.0.0-20231125090138-60ca5747a2a8 h1:Xl1DExE343v615QsjcKqcxvk1haypQ4G2BG05XjEQsw=
 github.com/t-kuni/go-package-example-2 v0.0.0-20231125090138-60ca5747a2a8/go.mod h1:EvUTECnlybumMcwgJhZJBlqz1pKN5DQj47KNzJlBziE=
+github.com/t-kuni/go-package-example-2 v1.0.1 h1:lgjErB2VgNa2vMlPungs6JPZ4gIzVWCx0Iwdjtc5EC4=
+github.com/t-kuni/go-package-example-2 v1.0.1/go.mod h1:EvUTECnlybumMcwgJhZJBlqz1pKN5DQj47KNzJlBziE=
+github.com/t-kuni/go-package-example-2 v1.0.2 h1:Zr1tLKvDrc0WWmWKSbdfb4pt/qSG6ZbF98xlhqFP5d8=
+github.com/t-kuni/go-package-example-2 v1.0.2/go.mod h1:EvUTECnlybumMcwgJhZJBlqz1pKN5DQj47KNzJlBziE=
+github.com/t-kuni/go-package-example-2 v1.0.3-0.20231125111459-1c6261f97606 h1:5fUNuFfFGMxxGOBOX8TIckuZJ+M16O1LmFUsTV9QZp8=
+github.com/t-kuni/go-package-example-2 v1.0.3-0.20231125111459-1c6261f97606/go.mod h1:EvUTECnlybumMcwgJhZJBlqz1pKN5DQj47KNzJlBziE=

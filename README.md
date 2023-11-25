@@ -11,3 +11,8 @@ git config --global url."git@github.com:t-kuni/go-package-example-2.git".instead
 export GOPRIVATE=github.com/t-kuni/go-package-example-2
 ```
 
+
+
+## Renovateの設定画面
+
+https://developer.mend.io/github/t-kuni

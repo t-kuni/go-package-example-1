@@ -11,7 +11,9 @@ git config --global url."git@github.com:t-kuni/go-package-example-2.git".instead
 export GOPRIVATE=github.com/t-kuni/go-package-example-2
 ```
 
+## 特定のパッケージに依存しているリポジトリを探す方法
 
+https://github.com/search?q=path:go.mod%20user:t-kuni%20github.com/t-kuni/go-package-example-2&type=Code
 
 ## Renovateの設定画面
 
